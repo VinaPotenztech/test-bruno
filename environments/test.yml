@@ -1,0 +1,4 @@
+name: test
+variables:
+  - name: API
+    value: https://jsonplaceholder.typicode.com
